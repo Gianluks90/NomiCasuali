@@ -18,8 +18,8 @@ namespace Names
         int rand;
             while (flag < names.Length) {
                 rand = random.Next(0,11);
-                if(empty[flag] == "") {
-                    empty[flag]=names[rand];
+                if(empty[rand] == "") {
+                    empty[rand]=names[flag];
                     ++flag;
                 } 
             }
@@ -30,3 +30,4 @@ namespace Names
         }
     }
 }
+// pizza
