@@ -1,0 +1,14 @@
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/NamesTest.deps.json
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/NamesTest.runtimeconfig.json
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/NamesTest.runtimeconfig.dev.json
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/NamesTest.dll
+/Users/gianluca/Desktop/Marino/NamesTest/bin/Debug/netcoreapp2.1/NamesTest.pdb
+/Users/gianluca/Desktop/Marino/NamesTest/obj/Debug/netcoreapp2.1/NamesTest.csprojAssemblyReference.cache
+/Users/gianluca/Desktop/Marino/NamesTest/obj/Debug/netcoreapp2.1/NamesTest.csproj.CoreCompileInputs.cache
+/Users/gianluca/Desktop/Marino/NamesTest/obj/Debug/netcoreapp2.1/NamesTest.AssemblyInfoInputs.cache
+/Users/gianluca/Desktop/Marino/NamesTest/obj/Debug/netcoreapp2.1/NamesTest.AssemblyInfo.cs
+/Users/gianluca/Desktop/Marino/NamesTest/obj/Debug/netcoreapp2.1/NamesTest.dll
+/Users/gianluca/Desktop/Marino/NamesTest/obj/Debug/netcoreapp2.1/NamesTest.pdb
